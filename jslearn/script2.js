@@ -34,7 +34,13 @@ btw but this is what it is
 // let converter = Boolean(loggedin);
 // console.log(typeof converter)
 // console.log(converter)
-let num = 18;
-let stringer = String(num);
-console.log(stringer)
-console.log(typeof stringer)
+// let num = 18;
+// let stringer = String(num);
+// console.log(stringer);
+// console.log(typeof stringer);
+
+let x = 34;
+let inc = x++;
+console.log(inc);
+let y = 13;
+console.log(++y);
