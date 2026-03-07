@@ -23,3 +23,6 @@ let s1 = 12;
 let s2 = 222;
 let s3 = 432;
 console.log(Array.of(s1,s2,s3));
+// -> [12,222,432]
+console.log(Array.from('hello');
+// -> ['h','e','l','l','o']
